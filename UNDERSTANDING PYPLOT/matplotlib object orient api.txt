@@ -1,0 +1,7 @@
+matplotlib ooa
+-plot, tittle..will record current information ....track it 
+
+figure--plot(changed in this plot)
+
+pyplot(state  machine)--easy, global state,less,best for beginer
+object orient API---long(larger project), required for high-level(dynamic /interactive,display multiple plot in one windows,)

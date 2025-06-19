@@ -1,0 +1,19 @@
+reason---:
+numbers--->picture/graphs....find highest value from graph
+1-drawing graphs
+2-data--compare and pattern find 
+3---sales report 
+
+functions->
+pit.grid()
+pit.show()
+pit.xlim()
+pit.ylim()
+pit.xticks()
+pit.yticks()
+pit.legend()
+pit.title()
+pit.plot()---use for line graph.
+pit.xlabel()
+pit.ylabel()
+

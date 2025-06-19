@@ -1,0 +1,22 @@
+category comparison data analysis ----bar chart
+
+
+
+numerical distribution data analysis --- histograms
+
+
+proportion illustration whole representation ---- pie charts
+
+
+what is data spread??
+=how data in distribute in different data ranges 
+
+bar chart??
+=>
+quickly comparing using bar ..present rectangular
+plt.bar(x,y,height,color='color name',width=value,label='label name')
+
+
+pie charts??
+=>
+dwar a circul and divided into region

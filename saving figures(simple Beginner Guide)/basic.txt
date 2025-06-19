@@ -1,0 +1,18 @@
+why we need save figures???
+-->
+savefig() ..saving visualization
+
+likely formats are--
+-png,pdf,svg.
+
+likely sharing are--
+collaboration
+publication
+
+filename--
+name
+path
+
+future use--
+analysis
+presentation

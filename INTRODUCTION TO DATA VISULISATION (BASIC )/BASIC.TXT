@@ -1,0 +1,45 @@
+PROBLEM STATEMENT:-
+ 
+
+without visualization-
+1.manually
+2.time effect
+3.logic
+
+data visualization-
+Boring  data(numbers,text,) to colorful,clear and meaning-full data 
+
+1-data science
+2-business 
+3-healthcare
+4-finance
+5-education
+6-government
+
+library-
+matplotlib ,seaborn, plotly,pandas(plot) :-
+basic and powerful plotting, statistical plots built on matplotlib, web-based visualization, quick plots from data frames
+
+
+DATA VISUALIZATION ADVANTAGE-
+SAVE TIMES----understanding data quickLy
+EASY COMMUNICATION---explain data to anyone
+SPOT TRENDS AND PATTERNS---see data's movement
+BETTER DECISION MAKING---make informed choices
+HANDLES BIG DATA WELL---understand thousands of rows
+
+
+
+without  ---1-hard ,2-1000 rows/slow ,3-can not find trends ,meeting(last one year data--on excel/csv),5-many error
+with -------1-easy,2-quickly,3-trend pattern spot ,4-graphes and diagrmame,5-minimum error
+
+
+(5) points--->
+1--images 60000 times faster 
+2--can lie (error in data,wrong color greading) ....so use proper threads ...use color properly 
+3--90% big data are fail..so use first(data explore visualay)--this process prevent wasting time on bad models
+4--7 pieces of data at once by our brain ...so use graph,pie-chart 
+
+
+
+

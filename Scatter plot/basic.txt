@@ -1,0 +1,11 @@
+what is scatter plot and why we need this stuff??
+=> 
+it will show all data plot as dot in our  graph ,,,it is a graph where  each pointer represent one observation with x and y
+plt.scatter(x,y,color='color_name',marker='maker style',label='label name')
+
+
+where is used for??
+=> between 2 variables
+use in machine learning  
+
+for more marker shapes search in web

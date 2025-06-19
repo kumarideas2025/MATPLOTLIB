@@ -1,0 +1,21 @@
+KEY TERM YOU  SHOULD KNOW-->
+data point---in a data set  x-axis(input) , y-axis(output) 
+x-axis/y-axis --x-axis(input) , y-axis(output) 
+figure--canvas where include graph/whole window
+axes---graph boxes
+plot ----line/point/shape/final result
+marker ----simble(o,s,d,+,*)
+line  ----continuos connection between data point
+line style ----we can draw how the line might works(solid line-,dotted .line .-,colllen line
+color -----bgr/#fff133
+legend ---use in diagram to label some info
+label--- what x-axis really do(sales),y-axis what is done done by(year)
+title ---give a name
+grid-->horizontal and vertical boxes(line graphs and cloder graphes)
+function--->block  of code to perform specific task----plot(),show()
+method-->use in object orient API
+parameters--> controls
+keyword arguments-->passing with value...name=value...plt.plot(x,y,color=green)
+object-Orient API--->
+DPI--->dots per inch ...resolution/clarity...higher DPI--clear image
+Backend--->to save it....tkAag (by default)...qteAag....webAag

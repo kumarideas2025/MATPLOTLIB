@@ -1,0 +1,25 @@
+                  Essential subplot functions in matplotlib
+
+1-subplot means??
+linechart(sales)
+barchart(expenses)
+
+but both in one canvas
+--multiple charts compair
+---space
+----quickly known where is the data used (EOA) 
+
+
+easy and quick:-- 
+1st way
+subplot()
+will divided into rows and columns --    
+plt.subplot(nrows,ncols,index) index is 1 base
+
+2nd way--
+fig , ax=plt.subplots(nrows ,ncols,figsize=width, height)
+
+
+plt.tight_layout....auto file 
+
+to add sub-title to all figure ---- fig.suptitle()
